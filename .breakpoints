@@ -1,0 +1,26 @@
+{
+  "files": {
+    "Main.java": [
+      {
+        "id": "d9152271-e61c-44a9-a4f7-a79781531ed5",
+        "line": 12,
+        "version": 16406,
+        "index": 384
+      },
+      {
+        "id": "caca48fc-16c7-42b8-a3f0-e900a46d16a8",
+        "line": 13,
+        "version": 16406,
+        "index": 437
+      }
+    ],
+    "Pokemon.java": [
+      {
+        "id": "4fb8a491-180b-417e-a6f0-dd6a778c0e75",
+        "line": 92,
+        "version": 4972,
+        "index": 2252
+      }
+    ]
+  }
+}
