@@ -1,4 +1,4 @@
-# CECS-277-Pokemon
+# Pokemon
 ### Semester Group Project
 Contributers: Patrick Del Pilar, Aveline Villaganas, and Patrice Calagui
 
